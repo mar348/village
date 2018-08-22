@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="gtest"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\gtest\;CMake Files\gtest\cmake\;CMake Files\miniupnp\;CMake Files\miniupnp\miniupnpc\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/daoful/hardrole/germ/germ/gtest"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/home/daoful/hardrole/germ/germ/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/home/daoful/hardrole/germ/germ/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/daoful/hardrole/germ/germ/gtest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/gtest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/gtest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\gtest\"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/gtest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\gtest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\miniupnp\miniupnpc\"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/miniupnpcstrings.h.cmake">
+			<Option virtualFolder="CMake Files\miniupnp\miniupnpc\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="src"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\gtest\;CMake Files\gtest\cmake\;CMake Files\miniupnp\;CMake Files\miniupnp\miniupnpc\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install">
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/strip">
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="list_install_components">
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package_source">
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 package_source"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="argon2">
+				<Option output="/home/daoful/hardrole/germ/germ/libargon2.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 argon2"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="argon2/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/libargon2.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 argon2/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xxhash">
+				<Option output="/home/daoful/hardrole/germ/germ/libxxhash.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 xxhash"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xxhash/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/libxxhash.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 xxhash/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ed25519">
+				<Option output="/home/daoful/hardrole/germ/germ/libed25519.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 ed25519"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ed25519/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/libed25519.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 ed25519/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="package">
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 package"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="germ_lib_static">
+				<Option output="/home/daoful/hardrole/germ/germ/libgerm_lib_static.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 germ_lib_static"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="germ_lib_static/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/libgerm_lib_static.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 germ_lib_static/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cryptopp">
+				<Option output="/home/daoful/hardrole/germ/germ/libcryptopp.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 cryptopp"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cryptopp/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/libcryptopp.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 cryptopp/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lmdb">
+				<Option output="/home/daoful/hardrole/germ/germ/liblmdb.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 lmdb"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lmdb/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/liblmdb.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 lmdb/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="install/local">
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="blake2">
+				<Option output="/home/daoful/hardrole/germ/germ/libblake2.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 blake2"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="blake2/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/libblake2.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 blake2/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="germ_node">
+				<Option output="/home/daoful/hardrole/germ/germ/germ_node" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 germ_node"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="germ_node/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/germ_node" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 germ_node/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="secure">
+				<Option output="/home/daoful/hardrole/germ/germ/libsecure.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 secure"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="secure/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/libsecure.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 secure/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="germ_lib">
+				<Option output="/home/daoful/hardrole/germ/germ/libgerm_lib.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 germ_lib"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="germ_lib/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/libgerm_lib.so" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="3"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 germ_lib/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="node">
+				<Option output="/home/daoful/hardrole/germ/germ/libnode.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 node"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="node/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/libnode.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 node/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest">
+				<Option output="/home/daoful/hardrole/germ/germ/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/gtest/libgtest.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main">
+				<Option output="/home/daoful/hardrole/germ/germ/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="gtest_main/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/gtest/libgtest_main.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/gtest"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/gtest/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minixmlvalid">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/minixmlvalid" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 minixmlvalid"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="minixmlvalid/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/minixmlvalid" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 minixmlvalid/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testminixml">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testminixml" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 testminixml"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testminixml/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testminixml" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 testminixml/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testupnpreplyparse">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testupnpreplyparse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 testupnpreplyparse"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testupnpreplyparse/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testupnpreplyparse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 testupnpreplyparse/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="upnpc-static">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnpc-static" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 upnpc-static"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="upnpc-static/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnpc-static" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 upnpc-static/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libminiupnpc-static">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/libminiupnpc.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 libminiupnpc-static"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="libminiupnpc-static/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/libminiupnpc.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 libminiupnpc-static/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testigddescparse">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testigddescparse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 testigddescparse"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testigddescparse/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testigddescparse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 testigddescparse/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testminiwget">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testminiwget" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 testminiwget"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testminiwget/fast">
+				<Option output="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testminiwget" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DMINIUPNPC_SET_SOCKET_TIMEOUT"/>
+					<Add option="-D_BSD_SOURCE"/>
+					<Add option="-D_DEFAULT_SOURCE"/>
+					<Add option="-D_XOPEN_SOURCE=600"/>
+					<Add directory="/home/daoful/hardrole/germ/germ"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/blake2"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/gtest/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/beast/include"/>
+					<Add directory="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 testminiwget/fast"/>
+					<CompileFile command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -f &quot;/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/daoful/hardrole/germ/germ/blake2/blake2-config.h">
+			<Option target="blake2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/blake2/blake2-impl.h">
+			<Option target="blake2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/blake2/blake2.h">
+			<Option target="blake2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/blake2/blake2b.c">
+			<Option target="blake2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/bootstrap_weights.cpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/algparam.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/algparam.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/asn.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/asn.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/basecode.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/basecode.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/cpu.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/cpu.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/cryptlib.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/cryptlib.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/default.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/default.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/des.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/des.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/dessp.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/dll.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/dll.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/ec2n.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/ec2n.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/ecp.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/ecp.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/filters.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/filters.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/fips140.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/fips140.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/gcm.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/gcm.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/gf2n.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/gf2n.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/gfpcrypt.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/gfpcrypt.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/hex.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/hex.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/hmac.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/hmac.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/hrtimer.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/hrtimer.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/integer.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/integer.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/iterhash.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/iterhash.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/misc.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/misc.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/modes.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/modes.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/mqueue.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/mqueue.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/nbtheory.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/nbtheory.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/oaep.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/oaep.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/osrng.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/osrng.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/pubkey.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/pubkey.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/queue.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/queue.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/randpool.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/randpool.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/rdtables.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/rijndael.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/rijndael.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/rng.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/rng.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/sha.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/sha.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/simple.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/simple.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/winpipes.cpp">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/cryptopp/winpipes.h">
+			<Option target="cryptopp"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/ed25519-donna/ed25519-donna-portable.h">
+			<Option target="ed25519"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/ed25519-donna/ed25519-hash-custom.h">
+			<Option target="ed25519"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/ed25519-donna/ed25519-randombytes-custom.h">
+			<Option target="ed25519"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/ed25519-donna/ed25519.c">
+			<Option target="ed25519"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/ed25519-donna/ed25519.h">
+			<Option target="ed25519"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/gtest/src/gtest-all.cc">
+			<Option target="gtest"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/gtest/src/gtest_main.cc">
+			<Option target="gtest_main"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/lmdb/libraries/liblmdb/lmdb.h">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/lmdb/libraries/liblmdb/mdb.c">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/lmdb/libraries/liblmdb/midl.c">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/lmdb/libraries/liblmdb/midl.h">
+			<Option target="lmdb"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/connecthostport.c">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/connecthostport.h">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/igd_desc_parse.c">
+			<Option target="testminixml"/>
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/igd_desc_parse.h">
+			<Option target="testminixml"/>
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/minisoap.c">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/minisoap.h">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/minissdpc.c">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/minissdpc.h">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/miniupnpc.c">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/miniupnpc.h">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/miniwget.c">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/miniwget.h">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/minixml.c">
+			<Option target="minixmlvalid"/>
+			<Option target="testminixml"/>
+			<Option target="testupnpreplyparse"/>
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/minixml.h">
+			<Option target="minixmlvalid"/>
+			<Option target="testminixml"/>
+			<Option target="testupnpreplyparse"/>
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/minixmlvalid.c">
+			<Option target="minixmlvalid"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/portlistingparse.c">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/portlistingparse.h">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/receivedata.c">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/receivedata.h">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testigddescparse.c">
+			<Option target="testigddescparse"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testminiwget.c">
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testminixml.c">
+			<Option target="testminixml"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/testupnpreplyparse.c">
+			<Option target="testupnpreplyparse"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnpc.c">
+			<Option target="upnpc-static"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnpcommands.c">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnpcommands.h">
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnpdev.c">
+			<Option target="libminiupnpc-static"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnpdev.h">
+			<Option target="libminiupnpc-static"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnperrors.c">
+			<Option target="libminiupnpc-static"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnperrors.h">
+			<Option target="libminiupnpc-static"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnpreplyparse.c">
+			<Option target="testupnpreplyparse"/>
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/upnpreplyparse.h">
+			<Option target="testupnpreplyparse"/>
+			<Option target="libminiupnpc-static"/>
+			<Option target="testigddescparse"/>
+			<Option target="testminiwget"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/phc-winner-argon2/include/argon2.h">
+			<Option target="argon2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src/argon2.c">
+			<Option target="argon2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src/core.c">
+			<Option target="argon2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src/core.h">
+			<Option target="argon2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src/encoding.c">
+			<Option target="argon2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src/encoding.h">
+			<Option target="argon2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src/opt.c">
+			<Option target="argon2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src/thread.c">
+			<Option target="argon2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/phc-winner-argon2/src/thread.h">
+			<Option target="argon2"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/blockstore.cpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/blockstore.hpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/common.cpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/common.hpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/config.hpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/germ_node/daemon.cpp">
+			<Option target="germ_node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/germ_node/daemon.hpp">
+			<Option target="germ_node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/germ_node/entry.cpp">
+			<Option target="germ_node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/ledger.cpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/ledger.hpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/blocks.cpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/blocks.hpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/errors.cpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/errors.hpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/expected.hpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/interface.cpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/interface.h">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/numbers.cpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/numbers.hpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/utility.cpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/utility.hpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/work.cpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/lib/work.hpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/bootstrap.cpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/bootstrap.hpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/common.cpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/common.hpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/node.cpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/node.hpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/openclwork.cpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/openclwork.hpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/rpc.cpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/rpc.hpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/stats.cpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/stats.hpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/testing.cpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/testing.hpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/utility.cpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/utility.hpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/wallet.cpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/wallet.hpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/working.hpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/node/xorshift.hpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/plat/linux/priority.cpp">
+			<Option target="germ_lib_static"/>
+			<Option target="germ_lib"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/plat/posix/openclapi.cpp">
+			<Option target="node"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/plat/posix/working.cpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/versioning.cpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/src/versioning.hpp">
+			<Option target="secure"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/xxhash/xxhash.c">
+			<Option target="xxhash"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/xxhash/xxhash.h">
+			<Option target="xxhash"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/gtest/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\gtest\"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/gtest/cmake/internal_utils.cmake">
+			<Option virtualFolder="CMake Files\gtest\cmake\"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\miniupnp\miniupnpc\"/>
+		</Unit>
+		<Unit filename="/home/daoful/hardrole/germ/germ/miniupnp/miniupnpc/miniupnpcstrings.h.cmake">
+			<Option virtualFolder="CMake Files\miniupnp\miniupnpc\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

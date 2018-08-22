@@ -1,0 +1,64 @@
+{
+    "version": "2",
+    "rpc_enable": "true",
+    "rpc": {
+        "address": "::ffff:0.0.0.0",
+        "port": "55000",
+        "enable_control": "true",
+        "frontier_request_limit": "16384",
+        "chain_request_limit": "16384"
+    },
+    "node": {
+        "version": "12",
+        "peering_port": "54000",
+        "bootstrap_fraction_numerator": "1",
+        "receive_minimum": "1000000000000000000000000",
+        "logging": {
+            "version": "4",
+            "ledger": "false",
+            "ledger_duplicate": "false",
+            "vote": "false",
+            "network": "true",
+            "network_message": "true",
+            "network_publish": "true",
+            "network_packet": "true",
+            "network_keepalive": "false",
+            "network_node_id_handshake": "false",
+            "node_lifetime_tracing": "false",
+            "insufficient_work": "true",
+            "log_rpc": "true",
+            "bulk_pull": "true",
+            "epoch_bulk_pull": "false",
+            "work_generation_time": "true",
+            "log_to_cerr": "false",
+            "max_size": "16777216",
+            "rotation_size": "4194304",
+            "flush": "true"
+        },
+        "work_peers": "",
+        "preconfigured_peers": "",
+        "preconfigured_representatives": [
+            "xrb_3e3j5tkog48pnny9dmfzj1r16pg8t1e76dz5tmac6iq689wyjfpiij4txtdo"
+        ],
+        "online_weight_minimum": "60000000000000000000000000000000000000",
+        "online_weight_quorum": "50",
+        "password_fanout": "1024",
+        "io_threads": "4",
+        "work_threads": "4",
+        "enable_voting": "true",
+        "bootstrap_connections": "4",
+        "bootstrap_connections_max": "64",
+        "callback_address": "",
+        "callback_port": "0",
+        "callback_target": "",
+        "lmdb_max_dbs": "128",
+        "state_block_parse_canary": "9288A800000000007838F39EFF7F000000A03862C7A6203BC036F39EFF7F0000",
+        "state_block_generate_canary": "B036F39EFF7F0000D036F39EFF7F00002D6FA800000000006039F39EFF7F0000"
+    },
+    "opencl_enable": "false",
+    "opencl": {
+        "platform": "0",
+        "device": "0",
+        "threads": "1048576"
+    }
+}

@@ -1,0 +1,1648 @@
+[2018-08-16 17:18:20.844738]: Node starting, version: 15.0
+[2018-08-16 17:18:20.844983]: Work pool running 1 threads
+[2018-08-16 17:18:20.845886]: Node ID: xrb_1buoctcfjx7e98st5wpnbym5sede51ujq9qm4x99eju9n68myoc5rsdf594k
+[2018-08-16 17:18:20.888769]: Receiving packet
+[2018-08-16 17:18:20.889029]: Starting bootstrap attempt
+[2018-08-16 17:18:20.889139]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:20.889192]: UPnP No IGD devices found
+[2018-08-16 17:18:20.889237]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:20.889264]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:20.889282]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:20.889298]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:20.889314]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:20.889329]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:20.889345]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:20.889365]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:20.889393]: Exiting bulk push client
+[2018-08-16 17:18:20.889415]: Bulk push client failed
+[2018-08-16 17:18:20.889436]: Exiting bootstrap attempt
+[2018-08-16 17:18:25.889253]: Starting bootstrap attempt
+[2018-08-16 17:18:25.889354]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:25.889658]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:25.889685]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:25.889699]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:25.889711]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:25.889722]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:25.889733]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:25.889745]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:25.889756]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:25.889769]: Exiting bulk push client
+[2018-08-16 17:18:25.889778]: Bulk push client failed
+[2018-08-16 17:18:25.889788]: Exiting bootstrap attempt
+[2018-08-16 17:18:30.889417]: Starting bootstrap attempt
+[2018-08-16 17:18:30.889529]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:30.889618]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:30.889648]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:30.889669]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:30.889689]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:30.889707]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:30.889725]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:30.889743]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:30.889761]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:30.889781]: Exiting bulk push client
+[2018-08-16 17:18:30.889795]: Bulk push client failed
+[2018-08-16 17:18:30.889809]: Exiting bootstrap attempt
+[2018-08-16 17:18:35.889613]: Starting bootstrap attempt
+[2018-08-16 17:18:35.889720]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:35.889804]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:35.889832]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:35.889846]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:35.889857]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:35.889869]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:35.889880]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:35.889891]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:35.889902]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:35.889915]: Exiting bulk push client
+[2018-08-16 17:18:35.889924]: Bulk push client failed
+[2018-08-16 17:18:35.889934]: Exiting bootstrap attempt
+[2018-08-16 17:18:40.889814]: Starting bootstrap attempt
+[2018-08-16 17:18:40.889917]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:40.890018]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:40.890043]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:40.890060]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:40.890076]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:40.890092]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:40.890107]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:40.890122]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:40.890137]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:40.890152]: Exiting bulk push client
+[2018-08-16 17:18:40.890164]: Bulk push client failed
+[2018-08-16 17:18:40.890176]: Exiting bootstrap attempt
+[2018-08-16 17:18:45.890013]: Starting bootstrap attempt
+[2018-08-16 17:18:45.890431]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:45.890518]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:45.890550]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:45.890571]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:45.890592]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:45.890613]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:45.890631]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:45.890651]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:45.890671]: Bootstrap stopped because there are no peers
+[2018-08-16 17:18:45.890692]: Exiting bulk push client
+[2018-08-16 17:18:45.890708]: Bulk push client failed
+[2018-08-16 17:18:45.890723]: Exiting bootstrap attempt
+[2018-08-16 17:18:48.802203]: Sending packet
+[2018-08-16 17:18:48.802436]: Packet send complete
+[2018-08-16 17:18:48.802553]: Receiving packet
+[2018-08-16 17:18:48.804424]: Sending packet
+[2018-08-16 17:18:48.804622]: Sending confirm req to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:48.804709]: Sending packet
+[2018-08-16 17:18:48.804821]: Packet send complete
+[2018-08-16 17:18:48.804859]: Packet send complete
+[2018-08-16 17:18:48.805406]: Sending packet
+[2018-08-16 17:18:48.805466]: Receiving packet
+[2018-08-16 17:18:48.805507]: Packet send complete
+[2018-08-16 17:18:48.807332]: Sending packet
+[2018-08-16 17:18:48.807444]: Receiving packet
+[2018-08-16 17:18:48.807490]: Packet send complete
+[2018-08-16 17:18:48.807561]: Confirm_req message from [::ffff:192.168.3.14]:54000 for 029BA7F0BE1F96343874750199B610EAE62D9F896612943F570707663AC67AAA
+[2018-08-16 17:18:48.807767]: Receiving packet
+[2018-08-16 17:18:48.807864]: Sending packet
+[2018-08-16 17:18:48.807937]: Receiving packet
+[2018-08-16 17:18:48.807951]: Packet send complete
+[2018-08-16 17:18:48.808923]: Sending packet
+[2018-08-16 17:18:48.809001]: Receiving packet
+[2018-08-16 17:18:48.809039]: Packet send complete
+[2018-08-16 17:18:48.809770]: Receiving packet
+[2018-08-16 17:18:50.890522]: Starting bootstrap attempt
+[2018-08-16 17:18:50.890608]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:50.900651]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:50.900789]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:50.900805]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:50.900877]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:50.900896]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:50.901129]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:50.900837]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:50.901155]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:50.904408]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:50.904634]: frontier_req failed, reattempting
+[2018-08-16 17:18:50.904934]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:50.905026]: frontier_req failed, reattempting
+[2018-08-16 17:18:50.905240]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:50.905326]: frontier_req failed, reattempting
+[2018-08-16 17:18:50.905536]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:50.905612]: frontier_req failed, reattempting
+[2018-08-16 17:18:50.905816]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:50.905891]: frontier_req failed, reattempting
+[2018-08-16 17:18:50.906090]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:50.906164]: frontier_req failed, reattempting
+[2018-08-16 17:18:50.906368]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:50.906444]: frontier_req failed, reattempting
+[2018-08-16 17:18:50.906657]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:50.906738]: frontier_req failed, reattempting
+[2018-08-16 17:18:51.891276]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:51.892575]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:51.892663]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:51.892714]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:51.892757]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:51.892795]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:51.892831]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:51.892866]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:51.892873]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:51.898154]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:51.898331]: frontier_req failed, reattempting
+[2018-08-16 17:18:51.898639]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:51.898746]: frontier_req failed, reattempting
+[2018-08-16 17:18:51.899015]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:51.899101]: frontier_req failed, reattempting
+[2018-08-16 17:18:51.899320]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:51.899403]: frontier_req failed, reattempting
+[2018-08-16 17:18:51.899617]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:51.899701]: frontier_req failed, reattempting
+[2018-08-16 17:18:51.899914]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:51.899994]: frontier_req failed, reattempting
+[2018-08-16 17:18:51.900205]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:51.900285]: frontier_req failed, reattempting
+[2018-08-16 17:18:51.900486]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:51.900565]: frontier_req failed, reattempting
+[2018-08-16 17:18:52.892172]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:52.893990]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:52.893977]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:52.894085]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:52.894116]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:52.894133]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:52.894178]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:52.893974]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:52.894220]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:52.894788]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:52.894894]: frontier_req failed, reattempting
+[2018-08-16 17:18:52.895290]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:52.895379]: frontier_req failed, reattempting
+[2018-08-16 17:18:52.895899]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:52.896037]: frontier_req failed, reattempting
+[2018-08-16 17:18:52.896510]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:52.896669]: frontier_req failed, reattempting
+[2018-08-16 17:18:52.896935]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:52.897016]: frontier_req failed, reattempting
+[2018-08-16 17:18:52.897388]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:52.897585]: frontier_req failed, reattempting
+[2018-08-16 17:18:52.897883]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:52.898024]: frontier_req failed, reattempting
+[2018-08-16 17:18:52.898396]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:52.898472]: frontier_req failed, reattempting
+[2018-08-16 17:18:53.892977]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:53.895010]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:53.895031]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:53.895158]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:53.895181]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:53.895208]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:53.895228]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:53.895254]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:53.895017]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:53.896189]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:53.896337]: frontier_req failed, reattempting
+[2018-08-16 17:18:53.896677]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:53.896828]: frontier_req failed, reattempting
+[2018-08-16 17:18:53.897123]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:53.897228]: frontier_req failed, reattempting
+[2018-08-16 17:18:53.897568]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:53.897838]: frontier_req failed, reattempting
+[2018-08-16 17:18:53.898168]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:53.898276]: frontier_req failed, reattempting
+[2018-08-16 17:18:53.898675]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:53.898763]: frontier_req failed, reattempting
+[2018-08-16 17:18:53.899126]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:53.899237]: frontier_req failed, reattempting
+[2018-08-16 17:18:53.899504]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:53.899616]: frontier_req failed, reattempting
+[2018-08-16 17:18:54.894224]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:54.897664]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:54.897793]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:54.897847]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:54.897891]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:54.897935]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:54.897976]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:54.898017]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:54.898065]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:54.898735]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:54.898941]: frontier_req failed, reattempting
+[2018-08-16 17:18:54.899817]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:54.900883]: frontier_req failed, reattempting
+[2018-08-16 17:18:54.901904]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:54.902364]: frontier_req failed, reattempting
+[2018-08-16 17:18:54.902629]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:54.902747]: frontier_req failed, reattempting
+[2018-08-16 17:18:54.903048]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:54.903147]: frontier_req failed, reattempting
+[2018-08-16 17:18:54.903372]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:54.903476]: frontier_req failed, reattempting
+[2018-08-16 17:18:54.903715]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:54.903817]: frontier_req failed, reattempting
+[2018-08-16 17:18:54.904031]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:54.904131]: frontier_req failed, reattempting
+[2018-08-16 17:18:55.895074]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:55.896887]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:55.896954]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:55.896970]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:55.897008]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:55.897071]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:55.896873]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:55.897014]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:55.897320]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:55.897486]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:55.897656]: frontier_req failed, reattempting
+[2018-08-16 17:18:55.897975]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:55.898047]: frontier_req failed, reattempting
+[2018-08-16 17:18:55.898241]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:55.898309]: frontier_req failed, reattempting
+[2018-08-16 17:18:55.898496]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:55.898563]: frontier_req failed, reattempting
+[2018-08-16 17:18:55.898771]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:55.898838]: frontier_req failed, reattempting
+[2018-08-16 17:18:55.899026]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:55.899092]: frontier_req failed, reattempting
+[2018-08-16 17:18:55.899276]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:55.899344]: frontier_req failed, reattempting
+[2018-08-16 17:18:55.899640]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:55.899730]: frontier_req failed, reattempting
+[2018-08-16 17:18:56.895941]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:56.913006]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:56.913141]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:56.913190]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:56.913229]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:56.913351]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:56.913286]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:56.913297]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:56.913306]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:56.916685]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:56.916862]: frontier_req failed, reattempting
+[2018-08-16 17:18:56.917225]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:56.917314]: frontier_req failed, reattempting
+[2018-08-16 17:18:56.917704]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:56.917831]: frontier_req failed, reattempting
+[2018-08-16 17:18:56.918170]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:56.918258]: frontier_req failed, reattempting
+[2018-08-16 17:18:56.918729]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:56.918845]: frontier_req failed, reattempting
+[2018-08-16 17:18:56.919226]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:56.919305]: frontier_req failed, reattempting
+[2018-08-16 17:18:56.919656]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:56.919738]: frontier_req failed, reattempting
+[2018-08-16 17:18:56.920109]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:56.920229]: frontier_req failed, reattempting
+[2018-08-16 17:18:57.897190]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:57.898625]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:57.898665]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:57.898707]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:57.898719]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:57.898774]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:57.898825]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:57.898885]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:57.898938]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:57.901368]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:57.901478]: frontier_req failed, reattempting
+[2018-08-16 17:18:57.901705]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:57.901775]: frontier_req failed, reattempting
+[2018-08-16 17:18:57.901961]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:57.902026]: frontier_req failed, reattempting
+[2018-08-16 17:18:57.902199]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:57.902262]: frontier_req failed, reattempting
+[2018-08-16 17:18:57.902432]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:57.902495]: frontier_req failed, reattempting
+[2018-08-16 17:18:57.902662]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:57.902724]: frontier_req failed, reattempting
+[2018-08-16 17:18:57.902901]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:57.902970]: frontier_req failed, reattempting
+[2018-08-16 17:18:57.903140]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:57.903204]: frontier_req failed, reattempting
+[2018-08-16 17:18:58.897791]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:58.899562]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:58.899658]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:58.899708]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:58.899750]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:58.899792]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:58.899832]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:58.899870]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:58.899914]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:58.900854]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:58.901033]: frontier_req failed, reattempting
+[2018-08-16 17:18:58.901282]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:58.901392]: frontier_req failed, reattempting
+[2018-08-16 17:18:58.901613]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:58.901718]: frontier_req failed, reattempting
+[2018-08-16 17:18:58.901935]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:58.902132]: frontier_req failed, reattempting
+[2018-08-16 17:18:58.902362]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:58.902461]: frontier_req failed, reattempting
+[2018-08-16 17:18:58.902677]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:58.902771]: frontier_req failed, reattempting
+[2018-08-16 17:18:58.902991]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:58.903106]: frontier_req failed, reattempting
+[2018-08-16 17:18:58.903326]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:58.903430]: frontier_req failed, reattempting
+[2018-08-16 17:18:59.898525]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:18:59.904543]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:59.904671]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:59.904727]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:59.905457]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:59.905524]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:59.905574]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:59.906272]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:59.906339]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:18:59.908104]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:59.908224]: frontier_req failed, reattempting
+[2018-08-16 17:18:59.908529]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:59.908613]: frontier_req failed, reattempting
+[2018-08-16 17:18:59.909032]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:59.909145]: frontier_req failed, reattempting
+[2018-08-16 17:18:59.909407]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:59.909493]: frontier_req failed, reattempting
+[2018-08-16 17:18:59.909724]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:59.909810]: frontier_req failed, reattempting
+[2018-08-16 17:18:59.910066]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:59.910149]: frontier_req failed, reattempting
+[2018-08-16 17:18:59.910397]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:59.910481]: frontier_req failed, reattempting
+[2018-08-16 17:18:59.910706]: Invalid size: expected 64, got 0
+[2018-08-16 17:18:59.910785]: frontier_req failed, reattempting
+[2018-08-16 17:19:00.899307]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:00.901824]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:00.901929]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:00.901983]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:00.902029]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:00.902071]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:00.902112]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:00.902156]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:00.902198]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:00.904833]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:00.905008]: frontier_req failed, reattempting
+[2018-08-16 17:19:00.905303]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:00.905406]: frontier_req failed, reattempting
+[2018-08-16 17:19:00.905653]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:00.905776]: frontier_req failed, reattempting
+[2018-08-16 17:19:00.906033]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:00.906148]: frontier_req failed, reattempting
+[2018-08-16 17:19:00.906369]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:00.906479]: frontier_req failed, reattempting
+[2018-08-16 17:19:00.906708]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:00.906819]: frontier_req failed, reattempting
+[2018-08-16 17:19:00.907060]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:00.907188]: frontier_req failed, reattempting
+[2018-08-16 17:19:00.907432]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:00.907564]: frontier_req failed, reattempting
+[2018-08-16 17:19:01.900279]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:01.906786]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:01.906915]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:01.906969]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:01.906983]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:01.907011]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:01.907085]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:01.907145]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:01.907281]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:01.907611]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:01.907788]: frontier_req failed, reattempting
+[2018-08-16 17:19:01.908044]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:01.908157]: frontier_req failed, reattempting
+[2018-08-16 17:19:01.908418]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:01.908508]: frontier_req failed, reattempting
+[2018-08-16 17:19:01.908739]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:01.908846]: frontier_req failed, reattempting
+[2018-08-16 17:19:01.918624]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:01.918847]: frontier_req failed, reattempting
+[2018-08-16 17:19:01.919128]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:01.919246]: frontier_req failed, reattempting
+[2018-08-16 17:19:01.919488]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:01.919640]: frontier_req failed, reattempting
+[2018-08-16 17:19:01.919876]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:01.919987]: frontier_req failed, reattempting
+[2018-08-16 17:19:02.901083]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:02.958167]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:02.958145]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:02.958145]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:02.958153]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:02.959271]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:02.959429]: frontier_req failed, reattempting
+[2018-08-16 17:19:02.959927]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:02.960008]: frontier_req failed, reattempting
+[2018-08-16 17:19:02.960261]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:02.960329]: frontier_req failed, reattempting
+[2018-08-16 17:19:02.960536]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:02.960618]: frontier_req failed, reattempting
+[2018-08-16 17:19:03.901985]: Bulk pull connections: 4, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:04.902245]: Bulk pull connections: 4, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:05.902490]: Bulk pull connections: 4, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:05.905656]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:05.905792]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:05.905848]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:05.905898]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:05.908256]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:05.908413]: frontier_req failed, reattempting
+[2018-08-16 17:19:05.908761]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:05.908842]: frontier_req failed, reattempting
+[2018-08-16 17:19:05.912926]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:05.913085]: frontier_req failed, reattempting
+[2018-08-16 17:19:05.913400]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:05.913487]: frontier_req failed, reattempting
+[2018-08-16 17:19:06.236070]: {"action": "wallet_create"}
+[2018-08-16 17:19:06.280377]: RPC request 0x30788d0 completed in: 44395 microseconds
+[2018-08-16 17:19:06.282966]: Beginning pending block search
+[2018-08-16 17:19:06.283060]: Pending block search phase complete
+[2018-08-16 17:19:06.283946]: {"action": "wallet_add", "wallet": "FDE0E2057D87828324B702B6B5FD9063F80D588730F42689A6768B43AC1938D7", "key": "34F0A37AAD20F4A260F0A5B3CB3D7FB50673212263E58A380BC10474BB039CE4"}
+[2018-08-16 17:19:06.303936]: Work generation complete: 662 us
+[2018-08-16 17:19:06.369251]: RPC request 0x7efb8c0057a0 completed in: 85472 microseconds
+[2018-08-16 17:19:06.371682]: {"action": "account_balance", "account": "xrb_3e3j5tkog48pnny9dmfzj1r16pg8t1e76dz5tmac6iq689wyjfpiij4txtdo"}
+[2018-08-16 17:19:06.371974]: RPC request 0x7efb8c005f80 completed in: 380 microseconds
+[2018-08-16 17:19:06.374672]: {"action": "wallet_create"}
+[2018-08-16 17:19:06.427236]: Beginning pending block search
+[2018-08-16 17:19:06.427322]: Pending block search phase complete
+[2018-08-16 17:19:06.430742]: {"action": "wallet_add", "wallet": "B21D3BA8C74BA20A534A693DA622102F81E688CCBDFE7C6E6F8D45BE712033DD", "key": "34F0A37AAD20F4A260F0A5B3CB3D7FB50673212263E58A380BC10474BB039CE4"}
+[2018-08-16 17:19:06.430945]: RPC request 0x7efb80001c90 completed in: 56337 microseconds
+[2018-08-16 17:19:06.470635]: Work generation complete: 727 us
+[2018-08-16 17:19:06.547076]: RPC request 0x7efb84006690 completed in: 116489 microseconds
+[2018-08-16 17:19:06.550190]: {"action": "accounts_create", "wallet": "B21D3BA8C74BA20A534A693DA622102F81E688CCBDFE7C6E6F8D45BE712033DD", "count": 1}
+[2018-08-16 17:19:06.613707]: RPC request 0x7efb80001790 completed in: 63653 microseconds
+[2018-08-16 17:19:06.616865]: {"action": "account_list", "wallet": "B21D3BA8C74BA20A534A693DA622102F81E688CCBDFE7C6E6F8D45BE712033DD"}
+[2018-08-16 17:19:06.617284]: RPC request 0x7efb8c0057a0 completed in: 531 microseconds
+[2018-08-16 17:19:06.620598]: {"action": "wallet_create"}
+[2018-08-16 17:19:06.669197]: RPC request 0x7efb880214e0 completed in: 48681 microseconds
+[2018-08-16 17:19:06.671820]: Beginning pending block search
+[2018-08-16 17:19:06.671923]: Pending block search phase complete
+[2018-08-16 17:19:06.672667]: {"action": "wallet_add", "wallet": "05273F402EC82C3480AA14E6B07314CD27012EA4F708D7F48AAC92B8D733112E", "key": "34F0A37AAD20F4A260F0A5B3CB3D7FB50673212263E58A380BC10474BB039CE4"}
+[2018-08-16 17:19:06.692491]: Work generation complete: 249 us
+[2018-08-16 17:19:06.758120]: RPC request 0x7efb8c0057a0 completed in: 85602 microseconds
+[2018-08-16 17:19:06.763316]: {"action": "accounts_create", "wallet": "05273F402EC82C3480AA14E6B07314CD27012EA4F708D7F48AAC92B8D733112E", "count": 1}
+[2018-08-16 17:19:06.824781]: RPC request 0x7efb84006690 completed in: 61604 microseconds
+[2018-08-16 17:19:06.827812]: {"action": "account_list", "wallet": "05273F402EC82C3480AA14E6B07314CD27012EA4F708D7F48AAC92B8D733112E"}
+[2018-08-16 17:19:06.828236]: RPC request 0x7efb80002c00 completed in: 543 microseconds
+[2018-08-16 17:19:06.831591]: {"action": "send", "wallet": "05273F402EC82C3480AA14E6B07314CD27012EA4F708D7F48AAC92B8D733112E", "amount": 100000000000, "destination": "xrb_1gkus71krrbxp5gy49erhksjjxbdc7qoi4ui8nzwuxdt65wqnjshawkpjo88", "source": "xrb_3e3j5tkog48pnny9dmfzj1r16pg8t1e76dz5tmac6iq689wyjfpiij4txtdo"}
+[2018-08-16 17:19:06.891535]: RPC request 0x7efb880214e0 completed in: 60187 microseconds
+[2018-08-16 17:19:06.893800]: Work generation complete: 2117 us
+[2018-08-16 17:19:06.894776]: {"action": "receive", "wallet": "05273F402EC82C3480AA14E6B07314CD27012EA4F708D7F48AAC92B8D733112E", "account": "xrb_1gkus71krrbxp5gy49erhksjjxbdc7qoi4ui8nzwuxdt65wqnjshawkpjo88", "block": "3DE2E657522525B9D4A5EAB8988BFBB016020B787923619E467479ACE6C5FBC4"}
+[2018-08-16 17:19:06.907692]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:06.909278]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:06.909376]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:06.909419]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:06.909455]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:06.909488]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:06.909520]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:06.909554]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:06.909586]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:06.910456]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:06.910572]: frontier_req failed, reattempting
+[2018-08-16 17:19:06.910828]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:06.910909]: frontier_req failed, reattempting
+[2018-08-16 17:19:06.911151]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:06.911238]: frontier_req failed, reattempting
+[2018-08-16 17:19:06.911460]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:06.911619]: frontier_req failed, reattempting
+[2018-08-16 17:19:06.911843]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:06.911923]: frontier_req failed, reattempting
+[2018-08-16 17:19:06.912153]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:06.912234]: frontier_req failed, reattempting
+[2018-08-16 17:19:06.912444]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:06.912526]: frontier_req failed, reattempting
+[2018-08-16 17:19:06.912743]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:06.912819]: frontier_req failed, reattempting
+[2018-08-16 17:19:06.980420]: RPC request 0x7efb80003020 completed in: 85843 microseconds
+[2018-08-16 17:19:06.983551]: {"action": "block_count"}
+[2018-08-16 17:19:06.983786]: RPC request 0x7efb84006690 completed in: 321 microseconds
+[2018-08-16 17:19:06.986967]: {"action": "block_count_type"}
+[2018-08-16 17:19:06.987210]: RPC request 0x7efb880217b0 completed in: 318 microseconds
+[2018-08-16 17:19:06.990508]: {"action": "unchecked", "count": -1}
+[2018-08-16 17:19:06.991274]: RPC request 0x7efb8c0057a0 completed in: 852 microseconds
+[2018-08-16 17:19:06.996286]: {"action": "wallet_create"}
+[2018-08-16 17:19:07.047013]: RPC request 0x7efb88023d00 completed in: 50811 microseconds
+[2018-08-16 17:19:07.049553]: Beginning pending block search
+[2018-08-16 17:19:07.049640]: Pending block search phase complete
+[2018-08-16 17:19:07.050230]: {"action": "wallet_add", "wallet": "A6D0984BFA61247DFCAF2BB852E60CDA3B9951BDD7D26E818067E07C2B353614", "key": "34F0A37AAD20F4A260F0A5B3CB3D7FB50673212263E58A380BC10474BB039CE4"}
+[2018-08-16 17:19:07.092498]: Work generation complete: 266 us
+[2018-08-16 17:19:07.124797]: RPC request 0x7efb88021620 completed in: 74721 microseconds
+[2018-08-16 17:19:07.128273]: {"action": "wallet_create"}
+[2018-08-16 17:19:07.249564]: Beginning pending block search
+[2018-08-16 17:19:07.249663]: Pending block search phase complete
+[2018-08-16 17:19:07.249782]: RPC request 0x7efb88023d00 completed in: 121583 microseconds
+[2018-08-16 17:19:07.250787]: {"action": "wallet_add", "wallet": "7FC2729187D13991C9CEA16B1E1FF3B475600F6DA03B4963D2185E0FBF69CA15", "key": "34F0A37AAD20F4A260F0A5B3CB3D7FB50673212263E58A380BC10474BB039CE4"}
+[2018-08-16 17:19:07.295246]: Work generation complete: 2914 us
+[2018-08-16 17:19:07.324796]: RPC request 0x7efb80003020 completed in: 74165 microseconds
+[2018-08-16 17:19:07.327895]: {"action": "wallet_balances", "wallet": "7FC2729187D13991C9CEA16B1E1FF3B475600F6DA03B4963D2185E0FBF69CA15"}
+[2018-08-16 17:19:07.328419]: RPC request 0x7efb880214e0 completed in: 636 microseconds
+[2018-08-16 17:19:07.331628]: {"action": "wallet_create"}
+[2018-08-16 17:19:07.415555]: RPC request 0x7efb84006690 completed in: 84011 microseconds
+[2018-08-16 17:19:07.416120]: Beginning pending block search
+[2018-08-16 17:19:07.416187]: Pending block search phase complete
+[2018-08-16 17:19:07.417304]: {"action": "wallet_add", "wallet": "EE7F2C9EAE1C2834C2C27AC47A063219BC4C62F69BF95A484B4303A3B87558D8", "key": "34F0A37AAD20F4A260F0A5B3CB3D7FB50673212263E58A380BC10474BB039CE4"}
+[2018-08-16 17:19:07.460488]: Work generation complete: 1538 us
+[2018-08-16 17:19:07.491483]: RPC request 0x7efb880217d0 completed in: 74331 microseconds
+[2018-08-16 17:19:07.497898]: {"action": "wallet_change_seed", "wallet": "EE7F2C9EAE1C2834C2C27AC47A063219BC4C62F69BF95A484B4303A3B87558D8", "seed": "74F2B37AAD20F4A260F0A5B3CB3D7FB51673212263E58A380BC10474BB039CEE"}
+[2018-08-16 17:19:07.541387]: Work generation complete: 1753 us
+[2018-08-16 17:19:07.590889]: {"action": "accounts_create", "wallet": "EE7F2C9EAE1C2834C2C27AC47A063219BC4C62F69BF95A484B4303A3B87558D8", "count": 1}
+[2018-08-16 17:19:07.591109]: RPC request 0x7efb84006690 completed in: 93328 microseconds
+[2018-08-16 17:19:07.713715]: RPC request 0x7efb8c049400 completed in: 122972 microseconds
+[2018-08-16 17:19:07.717504]: {"action": "wallet_create"}
+[2018-08-16 17:19:07.758240]: RPC request 0x7efb880217b0 completed in: 40818 microseconds
+[2018-08-16 17:19:07.761155]: Beginning pending block search
+[2018-08-16 17:19:07.761243]: Pending block search phase complete
+[2018-08-16 17:19:07.908422]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:07.912166]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:07.912297]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:07.912360]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:07.912372]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:07.912410]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:07.912440]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:07.912453]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:07.912485]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:07.913217]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:07.913332]: frontier_req failed, reattempting
+[2018-08-16 17:19:07.913597]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:07.913680]: frontier_req failed, reattempting
+[2018-08-16 17:19:07.913916]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:07.914026]: frontier_req failed, reattempting
+[2018-08-16 17:19:07.914322]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:07.914414]: frontier_req failed, reattempting
+[2018-08-16 17:19:07.914660]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:07.914804]: frontier_req failed, reattempting
+[2018-08-16 17:19:07.915025]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:07.915117]: frontier_req failed, reattempting
+[2018-08-16 17:19:07.915332]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:07.915408]: frontier_req failed, reattempting
+[2018-08-16 17:19:07.915641]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:07.915719]: frontier_req failed, reattempting
+[2018-08-16 17:19:08.909249]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:08.910945]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:08.911054]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:08.911107]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:08.911150]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:08.911192]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:08.911232]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:08.911270]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:08.911294]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:08.923168]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:08.923330]: frontier_req failed, reattempting
+[2018-08-16 17:19:08.923635]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:08.923750]: frontier_req failed, reattempting
+[2018-08-16 17:19:08.923978]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:08.924085]: frontier_req failed, reattempting
+[2018-08-16 17:19:08.924309]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:08.924411]: frontier_req failed, reattempting
+[2018-08-16 17:19:08.924653]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:08.924760]: frontier_req failed, reattempting
+[2018-08-16 17:19:08.924988]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:08.925089]: frontier_req failed, reattempting
+[2018-08-16 17:19:08.925315]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:08.925443]: frontier_req failed, reattempting
+[2018-08-16 17:19:08.925668]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:08.925775]: frontier_req failed, reattempting
+[2018-08-16 17:19:09.910592]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:09.930805]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:09.930936]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:09.930985]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:09.931025]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:09.931063]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:09.931100]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:09.931136]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:09.931172]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:09.932135]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:09.932245]: frontier_req failed, reattempting
+[2018-08-16 17:19:09.932542]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:09.932619]: frontier_req failed, reattempting
+[2018-08-16 17:19:09.932912]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:09.933042]: frontier_req failed, reattempting
+[2018-08-16 17:19:09.933492]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:09.933570]: frontier_req failed, reattempting
+[2018-08-16 17:19:09.933863]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:09.933942]: frontier_req failed, reattempting
+[2018-08-16 17:19:09.934269]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:09.934380]: frontier_req failed, reattempting
+[2018-08-16 17:19:09.934636]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:09.934709]: frontier_req failed, reattempting
+[2018-08-16 17:19:09.934962]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:09.935034]: frontier_req failed, reattempting
+[2018-08-16 17:19:10.911851]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:10.913360]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:10.913424]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:10.913335]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:10.913332]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:10.913446]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:10.913728]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:10.913788]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:10.913833]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:10.914324]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:10.914436]: frontier_req failed, reattempting
+[2018-08-16 17:19:10.914723]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:10.914822]: frontier_req failed, reattempting
+[2018-08-16 17:19:10.915091]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:10.915180]: frontier_req failed, reattempting
+[2018-08-16 17:19:10.915442]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:10.915615]: frontier_req failed, reattempting
+[2018-08-16 17:19:10.915856]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:10.916111]: frontier_req failed, reattempting
+[2018-08-16 17:19:10.916478]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:10.916576]: frontier_req failed, reattempting
+[2018-08-16 17:19:10.916806]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:10.916892]: frontier_req failed, reattempting
+[2018-08-16 17:19:10.917121]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:10.917204]: frontier_req failed, reattempting
+[2018-08-16 17:19:11.912650]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:11.914866]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:11.914911]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:11.914962]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:11.915004]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:11.915159]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:11.915165]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:11.915215]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:11.915222]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:11.916148]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:11.916250]: frontier_req failed, reattempting
+[2018-08-16 17:19:11.916463]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:11.916534]: frontier_req failed, reattempting
+[2018-08-16 17:19:11.916703]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:11.916768]: frontier_req failed, reattempting
+[2018-08-16 17:19:11.916985]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:11.917049]: frontier_req failed, reattempting
+[2018-08-16 17:19:11.917220]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:11.917283]: frontier_req failed, reattempting
+[2018-08-16 17:19:11.917471]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:11.917545]: frontier_req failed, reattempting
+[2018-08-16 17:19:11.917717]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:11.917796]: frontier_req failed, reattempting
+[2018-08-16 17:19:11.917963]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:11.918026]: frontier_req failed, reattempting
+[2018-08-16 17:19:12.913417]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:12.918652]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:12.918638]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:12.918769]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:12.918782]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:12.918816]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:12.918830]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:12.918859]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:12.918638]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:12.919909]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:12.920067]: frontier_req failed, reattempting
+[2018-08-16 17:19:12.920321]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:12.920442]: frontier_req failed, reattempting
+[2018-08-16 17:19:12.920665]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:12.920775]: frontier_req failed, reattempting
+[2018-08-16 17:19:12.921003]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:12.921147]: frontier_req failed, reattempting
+[2018-08-16 17:19:12.921379]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:12.921492]: frontier_req failed, reattempting
+[2018-08-16 17:19:12.921722]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:12.921836]: frontier_req failed, reattempting
+[2018-08-16 17:19:12.922057]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:12.922179]: frontier_req failed, reattempting
+[2018-08-16 17:19:12.922429]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:12.922536]: frontier_req failed, reattempting
+[2018-08-16 17:19:13.914180]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:13.915695]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:13.915739]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:13.915826]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:13.915875]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:13.916088]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:13.916101]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:13.916144]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:13.915833]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:13.916894]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:13.917047]: frontier_req failed, reattempting
+[2018-08-16 17:19:13.917620]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:13.917733]: frontier_req failed, reattempting
+[2018-08-16 17:19:13.918009]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:13.918101]: frontier_req failed, reattempting
+[2018-08-16 17:19:13.918357]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:13.918458]: frontier_req failed, reattempting
+[2018-08-16 17:19:13.918684]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:13.918778]: frontier_req failed, reattempting
+[2018-08-16 17:19:13.919014]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:13.919104]: frontier_req failed, reattempting
+[2018-08-16 17:19:13.919323]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:13.919404]: frontier_req failed, reattempting
+[2018-08-16 17:19:13.919667]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:13.919759]: frontier_req failed, reattempting
+[2018-08-16 17:19:14.923670]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:14.926655]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:14.926815]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:14.926887]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:14.926927]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:14.926964]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:14.927008]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:14.927058]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:14.927108]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:14.927425]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:14.927551]: frontier_req failed, reattempting
+[2018-08-16 17:19:14.927803]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:14.927888]: frontier_req failed, reattempting
+[2018-08-16 17:19:14.928099]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:14.928204]: frontier_req failed, reattempting
+[2018-08-16 17:19:14.928419]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:14.928580]: frontier_req failed, reattempting
+[2018-08-16 17:19:14.928799]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:14.928880]: frontier_req failed, reattempting
+[2018-08-16 17:19:14.929103]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:14.929184]: frontier_req failed, reattempting
+[2018-08-16 17:19:14.929395]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:14.929476]: frontier_req failed, reattempting
+[2018-08-16 17:19:14.929692]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:14.929774]: frontier_req failed, reattempting
+[2018-08-16 17:19:15.924927]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:15.929001]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:15.929126]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:15.929174]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:15.929225]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:15.929265]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:15.929302]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:15.929347]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:15.929385]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:15.932486]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:15.932932]: frontier_req failed, reattempting
+[2018-08-16 17:19:15.933304]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:15.933426]: frontier_req failed, reattempting
+[2018-08-16 17:19:15.933702]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:15.933793]: frontier_req failed, reattempting
+[2018-08-16 17:19:15.934107]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:15.934201]: frontier_req failed, reattempting
+[2018-08-16 17:19:15.934460]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:15.934560]: frontier_req failed, reattempting
+[2018-08-16 17:19:15.934851]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:15.935020]: frontier_req failed, reattempting
+[2018-08-16 17:19:15.935436]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:15.935730]: frontier_req failed, reattempting
+[2018-08-16 17:19:15.935945]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:15.936098]: frontier_req failed, reattempting
+[2018-08-16 17:19:16.925810]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:16.931126]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:16.931245]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:16.931111]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:16.931111]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:16.932103]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:16.932192]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:16.932245]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:16.932288]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:16.932366]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:16.932515]: frontier_req failed, reattempting
+[2018-08-16 17:19:16.932900]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:16.932981]: frontier_req failed, reattempting
+[2018-08-16 17:19:16.933281]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:16.933431]: frontier_req failed, reattempting
+[2018-08-16 17:19:16.934134]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:16.934321]: frontier_req failed, reattempting
+[2018-08-16 17:19:16.934629]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:16.934739]: frontier_req failed, reattempting
+[2018-08-16 17:19:16.935191]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:16.935343]: frontier_req failed, reattempting
+[2018-08-16 17:19:16.935825]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:16.935995]: frontier_req failed, reattempting
+[2018-08-16 17:19:16.936323]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:16.936427]: frontier_req failed, reattempting
+[2018-08-16 17:19:17.926924]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:17.931584]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:17.931711]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:17.931764]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:17.931813]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:17.931860]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:17.931908]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:17.931956]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:17.932058]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:17.932895]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:17.933008]: frontier_req failed, reattempting
+[2018-08-16 17:19:17.933304]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:17.933402]: frontier_req failed, reattempting
+[2018-08-16 17:19:17.933746]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:17.933860]: frontier_req failed, reattempting
+[2018-08-16 17:19:17.934121]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:17.934267]: frontier_req failed, reattempting
+[2018-08-16 17:19:17.934521]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:17.934609]: frontier_req failed, reattempting
+[2018-08-16 17:19:17.934894]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:17.935038]: frontier_req failed, reattempting
+[2018-08-16 17:19:17.935272]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:17.935399]: frontier_req failed, reattempting
+[2018-08-16 17:19:17.935681]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:17.935766]: frontier_req failed, reattempting
+[2018-08-16 17:19:18.928172]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:18.932173]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:18.932173]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:18.932313]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:18.932326]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:18.932364]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:18.932383]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:18.932410]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:18.932431]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:18.933288]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:18.933408]: frontier_req failed, reattempting
+[2018-08-16 17:19:18.933663]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:18.933750]: frontier_req failed, reattempting
+[2018-08-16 17:19:18.933979]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:18.934095]: frontier_req failed, reattempting
+[2018-08-16 17:19:18.934328]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:18.934419]: frontier_req failed, reattempting
+[2018-08-16 17:19:18.934648]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:18.934757]: frontier_req failed, reattempting
+[2018-08-16 17:19:18.934987]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:18.935170]: frontier_req failed, reattempting
+[2018-08-16 17:19:18.935414]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:18.935556]: frontier_req failed, reattempting
+[2018-08-16 17:19:18.935796]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:18.935887]: frontier_req failed, reattempting
+[2018-08-16 17:19:19.928938]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:19.931015]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:19.931106]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:19.931379]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:19.931436]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:19.931477]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:19.931515]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:19.931493]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:19.931550]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:19.933572]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:19.933747]: frontier_req failed, reattempting
+[2018-08-16 17:19:19.934006]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:19.934111]: frontier_req failed, reattempting
+[2018-08-16 17:19:19.934405]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:19.934555]: frontier_req failed, reattempting
+[2018-08-16 17:19:19.934795]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:19.934911]: frontier_req failed, reattempting
+[2018-08-16 17:19:19.935268]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:19.935399]: frontier_req failed, reattempting
+[2018-08-16 17:19:19.935643]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:19.935749]: frontier_req failed, reattempting
+[2018-08-16 17:19:19.935989]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:19.936114]: frontier_req failed, reattempting
+[2018-08-16 17:19:19.936394]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:19.936495]: frontier_req failed, reattempting
+[2018-08-16 17:19:20.929688]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:20.932202]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:20.932308]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:20.932365]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:20.932420]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:20.932490]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:20.932497]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:20.932542]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:20.932562]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:20.932914]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:20.933063]: frontier_req failed, reattempting
+[2018-08-16 17:19:20.933341]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:20.933465]: frontier_req failed, reattempting
+[2018-08-16 17:19:20.933687]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:20.933821]: frontier_req failed, reattempting
+[2018-08-16 17:19:20.934045]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:20.934180]: frontier_req failed, reattempting
+[2018-08-16 17:19:20.934404]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:20.934530]: frontier_req failed, reattempting
+[2018-08-16 17:19:20.934768]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:20.934894]: frontier_req failed, reattempting
+[2018-08-16 17:19:20.935133]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:20.935251]: frontier_req failed, reattempting
+[2018-08-16 17:19:20.935509]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:20.935651]: frontier_req failed, reattempting
+[2018-08-16 17:19:21.930516]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:21.933620]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:21.933788]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:21.933922]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:21.933971]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:21.934019]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:21.934037]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:21.934065]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:21.934085]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:21.934337]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:21.934500]: frontier_req failed, reattempting
+[2018-08-16 17:19:21.934758]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:21.934908]: frontier_req failed, reattempting
+[2018-08-16 17:19:21.935137]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:21.935275]: frontier_req failed, reattempting
+[2018-08-16 17:19:21.935495]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:21.935633]: frontier_req failed, reattempting
+[2018-08-16 17:19:21.935903]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:21.936046]: frontier_req failed, reattempting
+[2018-08-16 17:19:21.936273]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:21.936413]: frontier_req failed, reattempting
+[2018-08-16 17:19:21.936638]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:21.936767]: frontier_req failed, reattempting
+[2018-08-16 17:19:21.936995]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:21.937103]: frontier_req failed, reattempting
+[2018-08-16 17:19:22.932230]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:22.934670]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:22.934880]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:22.934680]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:22.934688]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:22.934619]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:22.935080]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:22.935140]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:22.935179]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:22.937761]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:22.937919]: frontier_req failed, reattempting
+[2018-08-16 17:19:22.938226]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:22.938318]: frontier_req failed, reattempting
+[2018-08-16 17:19:22.938537]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:22.938624]: frontier_req failed, reattempting
+[2018-08-16 17:19:22.938839]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:22.938924]: frontier_req failed, reattempting
+[2018-08-16 17:19:22.939140]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:22.939222]: frontier_req failed, reattempting
+[2018-08-16 17:19:22.939436]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:22.939514]: frontier_req failed, reattempting
+[2018-08-16 17:19:22.939730]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:22.939805]: frontier_req failed, reattempting
+[2018-08-16 17:19:22.939998]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:22.940071]: frontier_req failed, reattempting
+[2018-08-16 17:19:23.932993]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:23.940201]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:23.940234]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:23.940338]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:23.940365]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:23.940617]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:23.940639]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:23.940672]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:23.940387]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:23.940950]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:23.941097]: frontier_req failed, reattempting
+[2018-08-16 17:19:23.941331]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:23.941433]: frontier_req failed, reattempting
+[2018-08-16 17:19:23.941641]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:23.941736]: frontier_req failed, reattempting
+[2018-08-16 17:19:23.941956]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:23.942059]: frontier_req failed, reattempting
+[2018-08-16 17:19:23.942282]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:23.942385]: frontier_req failed, reattempting
+[2018-08-16 17:19:23.942611]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:23.942714]: frontier_req failed, reattempting
+[2018-08-16 17:19:23.942941]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:23.943060]: frontier_req failed, reattempting
+[2018-08-16 17:19:23.943286]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:23.943388]: frontier_req failed, reattempting
+[2018-08-16 17:19:24.933768]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:24.935072]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:24.935164]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:24.935218]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:24.935265]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:24.935306]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:24.935347]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:24.935389]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:24.935430]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:24.936197]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:24.936379]: frontier_req failed, reattempting
+[2018-08-16 17:19:24.936632]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:24.936771]: frontier_req failed, reattempting
+[2018-08-16 17:19:24.936997]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:24.937104]: frontier_req failed, reattempting
+[2018-08-16 17:19:24.937334]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:24.937440]: frontier_req failed, reattempting
+[2018-08-16 17:19:24.937663]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:24.937935]: frontier_req failed, reattempting
+[2018-08-16 17:19:24.938170]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:24.938286]: frontier_req failed, reattempting
+[2018-08-16 17:19:24.938510]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:24.938631]: frontier_req failed, reattempting
+[2018-08-16 17:19:24.938874]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:24.938978]: frontier_req failed, reattempting
+[2018-08-16 17:19:25.934628]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:25.938655]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:25.938783]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:25.938835]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:25.938876]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:25.938914]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:25.938966]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:25.939015]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:25.939061]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:25.943079]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:25.943319]: frontier_req failed, reattempting
+[2018-08-16 17:19:25.943861]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:25.943986]: frontier_req failed, reattempting
+[2018-08-16 17:19:25.944285]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:25.944425]: frontier_req failed, reattempting
+[2018-08-16 17:19:25.944716]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:25.944823]: frontier_req failed, reattempting
+[2018-08-16 17:19:25.945119]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:25.945227]: frontier_req failed, reattempting
+[2018-08-16 17:19:25.945540]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:25.945739]: frontier_req failed, reattempting
+[2018-08-16 17:19:25.946372]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:25.946500]: frontier_req failed, reattempting
+[2018-08-16 17:19:25.946919]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:25.947088]: frontier_req failed, reattempting
+[2018-08-16 17:19:26.935413]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:26.938351]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:26.938464]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:26.938513]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:26.938552]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:26.938591]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:26.938628]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:26.938666]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:26.938701]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:26.941283]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:26.941413]: frontier_req failed, reattempting
+[2018-08-16 17:19:26.941802]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:26.941919]: frontier_req failed, reattempting
+[2018-08-16 17:19:26.942185]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:26.942261]: frontier_req failed, reattempting
+[2018-08-16 17:19:26.942526]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:26.942644]: frontier_req failed, reattempting
+[2018-08-16 17:19:26.942896]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:26.942968]: frontier_req failed, reattempting
+[2018-08-16 17:19:26.943327]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:26.943401]: frontier_req failed, reattempting
+[2018-08-16 17:19:26.943721]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:26.943799]: frontier_req failed, reattempting
+[2018-08-16 17:19:26.944047]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:26.944119]: frontier_req failed, reattempting
+[2018-08-16 17:19:27.936989]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:27.938576]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:27.938671]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:27.938720]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:27.938766]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:27.938806]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:27.938855]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:27.938904]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:27.938967]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:27.941854]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:27.942022]: frontier_req failed, reattempting
+[2018-08-16 17:19:27.942295]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:27.942387]: frontier_req failed, reattempting
+[2018-08-16 17:19:27.942693]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:27.942811]: frontier_req failed, reattempting
+[2018-08-16 17:19:27.943071]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:27.943151]: frontier_req failed, reattempting
+[2018-08-16 17:19:27.943485]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:27.943681]: frontier_req failed, reattempting
+[2018-08-16 17:19:27.944160]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:27.944305]: frontier_req failed, reattempting
+[2018-08-16 17:19:27.944597]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:27.944710]: frontier_req failed, reattempting
+[2018-08-16 17:19:27.944971]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:27.945100]: frontier_req failed, reattempting
+[2018-08-16 17:19:28.937838]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:28.939274]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:28.939395]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:28.939450]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:28.939496]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:28.939561]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:28.939604]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:28.939644]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:28.939686]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:28.940386]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:28.940573]: frontier_req failed, reattempting
+[2018-08-16 17:19:28.940838]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:28.940984]: frontier_req failed, reattempting
+[2018-08-16 17:19:28.941206]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:28.941332]: frontier_req failed, reattempting
+[2018-08-16 17:19:28.941556]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:28.941697]: frontier_req failed, reattempting
+[2018-08-16 17:19:28.941915]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:28.942055]: frontier_req failed, reattempting
+[2018-08-16 17:19:28.942276]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:28.942411]: frontier_req failed, reattempting
+[2018-08-16 17:19:28.942653]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:28.942789]: frontier_req failed, reattempting
+[2018-08-16 17:19:28.943014]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:28.943148]: frontier_req failed, reattempting
+[2018-08-16 17:19:29.938685]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:29.941245]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:29.941381]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:29.941433]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:29.941473]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:29.941512]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:29.941548]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:29.941585]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:29.941620]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:29.949490]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:29.949679]: frontier_req failed, reattempting
+[2018-08-16 17:19:29.949967]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:29.950060]: frontier_req failed, reattempting
+[2018-08-16 17:19:29.950292]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:29.950367]: frontier_req failed, reattempting
+[2018-08-16 17:19:29.950592]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:29.950669]: frontier_req failed, reattempting
+[2018-08-16 17:19:29.950887]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:29.950960]: frontier_req failed, reattempting
+[2018-08-16 17:19:29.951187]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:29.951254]: frontier_req failed, reattempting
+[2018-08-16 17:19:29.951465]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:29.951588]: frontier_req failed, reattempting
+[2018-08-16 17:19:29.951796]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:29.951869]: frontier_req failed, reattempting
+[2018-08-16 17:19:30.939537]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:30.941232]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:30.941340]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:30.941393]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:30.941436]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:30.941479]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:30.941519]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:30.941587]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:30.941665]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:30.942403]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:30.942585]: frontier_req failed, reattempting
+[2018-08-16 17:19:30.942831]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:30.942939]: frontier_req failed, reattempting
+[2018-08-16 17:19:30.943164]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:30.943267]: frontier_req failed, reattempting
+[2018-08-16 17:19:30.943489]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:30.943614]: frontier_req failed, reattempting
+[2018-08-16 17:19:30.943839]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:30.943946]: frontier_req failed, reattempting
+[2018-08-16 17:19:30.944168]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:30.944276]: frontier_req failed, reattempting
+[2018-08-16 17:19:30.944498]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:30.944613]: frontier_req failed, reattempting
+[2018-08-16 17:19:30.944837]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:30.945044]: frontier_req failed, reattempting
+[2018-08-16 17:19:31.940888]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:31.943920]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:31.944045]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:31.944063]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:31.945020]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:31.945092]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:31.945140]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:31.945184]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:31.945225]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:31.945284]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:31.945436]: frontier_req failed, reattempting
+[2018-08-16 17:19:31.945714]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:31.945830]: frontier_req failed, reattempting
+[2018-08-16 17:19:31.946121]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:31.946223]: frontier_req failed, reattempting
+[2018-08-16 17:19:31.946671]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:31.946763]: frontier_req failed, reattempting
+[2018-08-16 17:19:31.947054]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:31.947167]: frontier_req failed, reattempting
+[2018-08-16 17:19:31.947793]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:31.947886]: frontier_req failed, reattempting
+[2018-08-16 17:19:31.948173]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:31.948250]: frontier_req failed, reattempting
+[2018-08-16 17:19:31.948508]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:31.948583]: frontier_req failed, reattempting
+[2018-08-16 17:19:32.941990]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:32.943597]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:32.943695]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:32.943749]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:32.943795]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:32.943835]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:32.943890]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:32.943933]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:32.944219]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:32.944893]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:32.945066]: frontier_req failed, reattempting
+[2018-08-16 17:19:32.945312]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:32.945450]: frontier_req failed, reattempting
+[2018-08-16 17:19:32.945675]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:32.945786]: frontier_req failed, reattempting
+[2018-08-16 17:19:32.946003]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:32.946112]: frontier_req failed, reattempting
+[2018-08-16 17:19:32.946331]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:32.946446]: frontier_req failed, reattempting
+[2018-08-16 17:19:32.946666]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:32.946776]: frontier_req failed, reattempting
+[2018-08-16 17:19:32.947012]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:32.947138]: frontier_req failed, reattempting
+[2018-08-16 17:19:32.947359]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:32.947467]: frontier_req failed, reattempting
+[2018-08-16 17:19:33.943096]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:33.945003]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:33.945087]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:33.944990]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:33.945133]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:33.945149]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:33.945174]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:33.944979]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:33.944928]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:33.945767]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:33.945871]: frontier_req failed, reattempting
+[2018-08-16 17:19:33.946150]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:33.946235]: frontier_req failed, reattempting
+[2018-08-16 17:19:33.946501]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:33.946641]: frontier_req failed, reattempting
+[2018-08-16 17:19:33.946895]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:33.946975]: frontier_req failed, reattempting
+[2018-08-16 17:19:33.947227]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:33.947303]: frontier_req failed, reattempting
+[2018-08-16 17:19:33.948059]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:33.948180]: frontier_req failed, reattempting
+[2018-08-16 17:19:33.948436]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:33.948516]: frontier_req failed, reattempting
+[2018-08-16 17:19:33.948749]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:33.948819]: frontier_req failed, reattempting
+[2018-08-16 17:19:34.943951]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:34.945450]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:34.945544]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:34.945594]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:34.945639]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:34.945679]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:34.945719]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:34.945761]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:34.945801]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:34.946908]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:34.947084]: frontier_req failed, reattempting
+[2018-08-16 17:19:34.947331]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:34.947444]: frontier_req failed, reattempting
+[2018-08-16 17:19:34.947691]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:34.947798]: frontier_req failed, reattempting
+[2018-08-16 17:19:34.948059]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:34.948207]: frontier_req failed, reattempting
+[2018-08-16 17:19:34.948456]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:34.948561]: frontier_req failed, reattempting
+[2018-08-16 17:19:34.948813]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:34.948894]: frontier_req failed, reattempting
+[2018-08-16 17:19:34.949119]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:34.949240]: frontier_req failed, reattempting
+[2018-08-16 17:19:34.949491]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:34.949621]: frontier_req failed, reattempting
+[2018-08-16 17:19:35.944832]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:35.953054]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:35.953194]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:35.953249]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:35.953290]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:35.953331]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:35.953368]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:35.953404]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:35.953456]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:35.956488]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:35.956613]: frontier_req failed, reattempting
+[2018-08-16 17:19:35.985764]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:35.985926]: frontier_req failed, reattempting
+[2018-08-16 17:19:35.991557]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:35.991693]: frontier_req failed, reattempting
+[2018-08-16 17:19:35.991993]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:35.992077]: frontier_req failed, reattempting
+[2018-08-16 17:19:35.992395]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:35.992527]: frontier_req failed, reattempting
+[2018-08-16 17:19:35.992793]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:35.992976]: frontier_req failed, reattempting
+[2018-08-16 17:19:35.993347]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:35.993437]: frontier_req failed, reattempting
+[2018-08-16 17:19:35.993700]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:35.993784]: frontier_req failed, reattempting
+[2018-08-16 17:19:36.946118]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:36.952187]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:36.952313]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:36.952330]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:36.952416]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:36.952470]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:36.952357]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:36.952612]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:36.952620]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:36.957726]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:36.957941]: frontier_req failed, reattempting
+[2018-08-16 17:19:36.958279]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:36.958374]: frontier_req failed, reattempting
+[2018-08-16 17:19:36.958701]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:36.959003]: frontier_req failed, reattempting
+[2018-08-16 17:19:36.959298]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:36.959382]: frontier_req failed, reattempting
+[2018-08-16 17:19:36.959894]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:36.959986]: frontier_req failed, reattempting
+[2018-08-16 17:19:36.960307]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:36.960423]: frontier_req failed, reattempting
+[2018-08-16 17:19:36.960807]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:36.960922]: frontier_req failed, reattempting
+[2018-08-16 17:19:36.961247]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:36.961326]: frontier_req failed, reattempting
+[2018-08-16 17:19:37.947830]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:37.949770]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:37.950052]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:37.950110]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:37.950260]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:37.950325]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:37.950368]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:37.950406]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:37.950443]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:37.960445]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:37.960727]: frontier_req failed, reattempting
+[2018-08-16 17:19:37.961054]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:37.961139]: frontier_req failed, reattempting
+[2018-08-16 17:19:37.961452]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:37.961571]: frontier_req failed, reattempting
+[2018-08-16 17:19:37.961815]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:37.961890]: frontier_req failed, reattempting
+[2018-08-16 17:19:37.962102]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:37.962207]: frontier_req failed, reattempting
+[2018-08-16 17:19:37.962482]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:37.962607]: frontier_req failed, reattempting
+[2018-08-16 17:19:37.962844]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:37.962951]: frontier_req failed, reattempting
+[2018-08-16 17:19:37.963158]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:37.963250]: frontier_req failed, reattempting
+[2018-08-16 17:19:38.948970]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:38.952144]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:38.952229]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:38.952129]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:38.952129]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:38.952255]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:38.952487]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:38.954291]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:38.954372]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:38.954404]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:38.954513]: frontier_req failed, reattempting
+[2018-08-16 17:19:38.954778]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:38.954858]: frontier_req failed, reattempting
+[2018-08-16 17:19:38.955068]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:38.955144]: frontier_req failed, reattempting
+[2018-08-16 17:19:38.955356]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:38.955425]: frontier_req failed, reattempting
+[2018-08-16 17:19:38.955665]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:38.955743]: frontier_req failed, reattempting
+[2018-08-16 17:19:38.955931]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:38.956001]: frontier_req failed, reattempting
+[2018-08-16 17:19:38.958999]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:38.959129]: frontier_req failed, reattempting
+[2018-08-16 17:19:38.959416]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:38.959491]: frontier_req failed, reattempting
+[2018-08-16 17:19:39.949903]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:39.951285]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:39.951389]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:39.951446]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:39.951479]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:39.953184]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:39.953265]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:39.953315]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:39.953359]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:39.953421]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:39.953516]: frontier_req failed, reattempting
+[2018-08-16 17:19:39.953844]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:39.954018]: frontier_req failed, reattempting
+[2018-08-16 17:19:39.954335]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:39.954418]: frontier_req failed, reattempting
+[2018-08-16 17:19:39.954670]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:39.954807]: frontier_req failed, reattempting
+[2018-08-16 17:19:39.955182]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:39.955262]: frontier_req failed, reattempting
+[2018-08-16 17:19:39.955499]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:39.955753]: frontier_req failed, reattempting
+[2018-08-16 17:19:39.956027]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:39.956190]: frontier_req failed, reattempting
+[2018-08-16 17:19:39.956496]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:39.956575]: frontier_req failed, reattempting
+[2018-08-16 17:19:40.950696]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:40.952063]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:40.952160]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:40.952209]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:40.952251]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:40.952288]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:40.952325]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:40.952361]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:40.952398]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:40.953371]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:40.953548]: frontier_req failed, reattempting
+[2018-08-16 17:19:40.953782]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:40.953881]: frontier_req failed, reattempting
+[2018-08-16 17:19:40.954090]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:40.954184]: frontier_req failed, reattempting
+[2018-08-16 17:19:40.954396]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:40.954496]: frontier_req failed, reattempting
+[2018-08-16 17:19:40.954725]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:40.954821]: frontier_req failed, reattempting
+[2018-08-16 17:19:40.955049]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:40.955147]: frontier_req failed, reattempting
+[2018-08-16 17:19:40.955350]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:40.955463]: frontier_req failed, reattempting
+[2018-08-16 17:19:40.955702]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:40.955802]: frontier_req failed, reattempting
+[2018-08-16 17:19:41.951593]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:41.958569]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:41.958702]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:41.958754]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:41.958797]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:41.958841]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:41.958887]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:41.958945]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:41.959097]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:41.961032]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:41.961162]: frontier_req failed, reattempting
+[2018-08-16 17:19:41.961421]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:41.961508]: frontier_req failed, reattempting
+[2018-08-16 17:19:41.961743]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:41.961821]: frontier_req failed, reattempting
+[2018-08-16 17:19:41.962032]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:41.962107]: frontier_req failed, reattempting
+[2018-08-16 17:19:41.962314]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:41.962387]: frontier_req failed, reattempting
+[2018-08-16 17:19:41.962596]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:41.962673]: frontier_req failed, reattempting
+[2018-08-16 17:19:41.962881]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:41.962957]: frontier_req failed, reattempting
+[2018-08-16 17:19:41.963173]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:41.963260]: frontier_req failed, reattempting
+[2018-08-16 17:19:42.952695]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:42.958686]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:42.958837]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:42.958907]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:42.958956]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:42.987824]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:42.987953]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:42.987968]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:42.988099]: frontier_req failed, reattempting
+[2018-08-16 17:19:42.988389]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:42.988479]: frontier_req failed, reattempting
+[2018-08-16 17:19:42.988777]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:42.988862]: frontier_req failed, reattempting
+[2018-08-16 17:19:42.989229]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:42.989310]: frontier_req failed, reattempting
+[2018-08-16 17:19:42.990128]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:42.990253]: frontier_req failed, reattempting
+[2018-08-16 17:19:42.990615]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:42.990770]: frontier_req failed, reattempting
+[2018-08-16 17:19:43.953494]: Bulk pull connections: 2, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:43.986597]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:43.986713]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:43.986736]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:43.986772]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:43.986786]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:43.986597]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:44.006320]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.006544]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.006839]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.007031]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.007274]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.007395]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.007726]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.007846]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.008069]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.008181]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.008404]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.008511]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.954078]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:44.960969]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:44.961581]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:44.961831]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:44.962082]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:44.962335]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:44.962591]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:44.962845]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:44.963099]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:44.963946]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.964126]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.964530]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.964650]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.965028]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.965150]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.965501]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.965747]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.966092]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.966241]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.966628]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.966732]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.967048]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.967164]: frontier_req failed, reattempting
+[2018-08-16 17:19:44.967593]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:44.967693]: frontier_req failed, reattempting
+[2018-08-16 17:19:45.955419]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:45.962242]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:45.962372]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:45.962424]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:45.962465]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:45.962438]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:45.962504]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:45.962524]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:45.962542]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:45.963997]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:45.964148]: frontier_req failed, reattempting
+[2018-08-16 17:19:45.964427]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:45.964521]: frontier_req failed, reattempting
+[2018-08-16 17:19:45.964783]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:45.964879]: frontier_req failed, reattempting
+[2018-08-16 17:19:45.965124]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:45.965212]: frontier_req failed, reattempting
+[2018-08-16 17:19:45.965462]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:45.965546]: frontier_req failed, reattempting
+[2018-08-16 17:19:45.965772]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:45.965854]: frontier_req failed, reattempting
+[2018-08-16 17:19:45.966106]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:45.966188]: frontier_req failed, reattempting
+[2018-08-16 17:19:45.966420]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:45.966503]: frontier_req failed, reattempting
+[2018-08-16 17:19:46.956672]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:46.959727]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:46.959838]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:46.959889]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:46.959931]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:46.959974]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:46.960015]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:46.960017]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:46.960066]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:46.960845]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:46.960960]: frontier_req failed, reattempting
+[2018-08-16 17:19:46.961219]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:46.961309]: frontier_req failed, reattempting
+[2018-08-16 17:19:46.961533]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:46.961613]: frontier_req failed, reattempting
+[2018-08-16 17:19:46.961842]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:46.961926]: frontier_req failed, reattempting
+[2018-08-16 17:19:46.962176]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:46.962257]: frontier_req failed, reattempting
+[2018-08-16 17:19:46.962480]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:46.962566]: frontier_req failed, reattempting
+[2018-08-16 17:19:46.962785]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:46.962891]: frontier_req failed, reattempting
+[2018-08-16 17:19:46.963121]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:46.963228]: frontier_req failed, reattempting
+[2018-08-16 17:19:47.959801]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:47.961230]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:47.961321]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:47.961371]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:47.961413]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:47.961455]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:47.961494]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:47.961538]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:47.961580]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:47.962456]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:47.962588]: frontier_req failed, reattempting
+[2018-08-16 17:19:47.962857]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:47.962954]: frontier_req failed, reattempting
+[2018-08-16 17:19:47.963185]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:47.963272]: frontier_req failed, reattempting
+[2018-08-16 17:19:47.963495]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:47.963606]: frontier_req failed, reattempting
+[2018-08-16 17:19:47.963840]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:47.963929]: frontier_req failed, reattempting
+[2018-08-16 17:19:47.964153]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:47.964240]: frontier_req failed, reattempting
+[2018-08-16 17:19:47.964464]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:47.964550]: frontier_req failed, reattempting
+[2018-08-16 17:19:47.964773]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:47.964859]: frontier_req failed, reattempting
+[2018-08-16 17:19:48.800647]: Receiving packet
+[2018-08-16 17:19:48.960632]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:48.970944]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:48.971053]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:48.971076]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:48.971794]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:48.971849]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:48.971947]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:48.972018]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:48.972050]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:48.972787]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:48.972909]: frontier_req failed, reattempting
+[2018-08-16 17:19:48.973176]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:48.973263]: frontier_req failed, reattempting
+[2018-08-16 17:19:48.973504]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:48.973606]: frontier_req failed, reattempting
+[2018-08-16 17:19:48.973848]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:48.973929]: frontier_req failed, reattempting
+[2018-08-16 17:19:48.974156]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:48.974235]: frontier_req failed, reattempting
+[2018-08-16 17:19:48.974468]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:48.974543]: frontier_req failed, reattempting
+[2018-08-16 17:19:48.974771]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:48.974848]: frontier_req failed, reattempting
+[2018-08-16 17:19:48.975078]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:48.975154]: frontier_req failed, reattempting
+[2018-08-16 17:19:49.961850]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:49.963264]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:49.963317]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:49.963366]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:49.963526]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:49.963537]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:49.963585]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:49.963596]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:49.963634]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:49.964281]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:49.964372]: frontier_req failed, reattempting
+[2018-08-16 17:19:49.964559]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:49.964625]: frontier_req failed, reattempting
+[2018-08-16 17:19:49.964798]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:49.964857]: frontier_req failed, reattempting
+[2018-08-16 17:19:49.965042]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:49.965104]: frontier_req failed, reattempting
+[2018-08-16 17:19:49.965271]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:49.965328]: frontier_req failed, reattempting
+[2018-08-16 17:19:49.965536]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:49.965598]: frontier_req failed, reattempting
+[2018-08-16 17:19:49.965772]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:49.965829]: frontier_req failed, reattempting
+[2018-08-16 17:19:49.966000]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:49.966061]: frontier_req failed, reattempting
+[2018-08-16 17:19:50.962616]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:50.965919]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:50.966044]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:50.966104]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:50.966152]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:50.966227]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:50.966277]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:50.966317]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:50.966357]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:50.967050]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:50.967166]: frontier_req failed, reattempting
+[2018-08-16 17:19:50.967409]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:50.967502]: frontier_req failed, reattempting
+[2018-08-16 17:19:50.967760]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:50.967849]: frontier_req failed, reattempting
+[2018-08-16 17:19:50.968082]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:50.968174]: frontier_req failed, reattempting
+[2018-08-16 17:19:50.968399]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:50.968507]: frontier_req failed, reattempting
+[2018-08-16 17:19:50.968730]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:50.968816]: frontier_req failed, reattempting
+[2018-08-16 17:19:50.969052]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:50.969140]: frontier_req failed, reattempting
+[2018-08-16 17:19:50.969358]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:50.969444]: frontier_req failed, reattempting
+[2018-08-16 17:19:51.963821]: Bulk pull connections: 0, rate: 0 blocks/sec, remaining account pulls: 0, total blocks: 0
+[2018-08-16 17:19:51.974781]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:51.974879]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:51.974907]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:51.974937]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:51.974763]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:51.974763]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:51.975218]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:51.975264]: Connection established to [::ffff:192.168.3.14]:54000
+[2018-08-16 17:19:51.978322]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:51.978474]: frontier_req failed, reattempting
+[2018-08-16 17:19:51.978776]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:51.978893]: frontier_req failed, reattempting
+[2018-08-16 17:19:51.979143]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:51.979250]: frontier_req failed, reattempting
+[2018-08-16 17:19:51.979480]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:51.979689]: frontier_req failed, reattempting
+[2018-08-16 17:19:51.979936]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:51.980044]: frontier_req failed, reattempting
+[2018-08-16 17:19:51.980294]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:51.980403]: frontier_req failed, reattempting
+[2018-08-16 17:19:51.980626]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:51.980750]: frontier_req failed, reattempting
+[2018-08-16 17:19:51.981024]: Invalid size: expected 64, got 0
+[2018-08-16 17:19:51.981131]: frontier_req failed, reattempting
